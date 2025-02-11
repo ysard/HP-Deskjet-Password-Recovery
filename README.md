@@ -37,8 +37,8 @@ $ python hp_deskjet_password_recovery.py my_eeprom_dump.bin
 ## Example
 
 ```
-$ python hp_deskjet_password_recovery.py 4128BWP.bin
-File: 4128BWP.bin
+$ python hp_deskjet_password_recovery.py assets/4128BWP.bin
+File: assets/4128BWP.bin
 SERIAL_NB: CN43T3B2YY0604
 NETWORK_NAME: HPFC15B44098CD.local.
 EWS_PASS: password
